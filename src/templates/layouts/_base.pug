@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+block data
+    - var title   = 'site title';
+    - var desc = 'site description';
+html(lang="en")
+head
+    meta(charset="UTF-8")
+    meta(name="description", content=desc)
+    meta(http-equiv='x-ua-compatible' content='ie=edge')
+    meta(name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no')
+    title= title
+    block hscripts
+        include ./../includes/_hscripts.pug
+body
+    block header
+        include ./../includes/_head.pug
+        include ./../includes/_main_nav.pug
+    block content
+    block footer
+        include ./../includes/_foot.pug
+    block fscripts
+        include ./../includes/_fscripts.pug

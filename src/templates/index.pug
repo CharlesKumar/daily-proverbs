@@ -1,0 +1,18 @@
+extend ./layouts/_base.pug
+
+block data
+    - var title = "Holy Bible Proverbs"
+    - var desc = "Website for reading Proverbs daily"
+    - var htitle = 'Holy Bible Proverbs';
+    - var hsub = 'your daily companion';
+
+block content
+    //- h1 Proverbs
+    include ./includes/_herobanner.pug
+    .columnize.mt3
+        #proverbs
+        //- each val, ind in proverbs
+        //-     p= (ind+1) +'. ' + val
+
+append fscripts
+    //- script(src="../js/data/proverbs.js")
