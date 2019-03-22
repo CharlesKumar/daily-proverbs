@@ -657,17 +657,17 @@ const ch21 = [
 ];
 const ch22 = [
 " A GOOD name is rather to be chosen than great riches, and loving favour rather than silver and gold.",
-" The rich and poor meet together: the L ORD is the maker of them all.",
+" The rich and poor meet together: the LORD is the maker of them all.",
 " A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.",
-" By humility and the fear of the L ORD are riches, and honour, and life.",
+" By humility and the fear of the LORD are riches, and honour, and life.",
 " Thorns and snares are in the way of the froward: he that doth keep his soul shall be far from them.",
 " Train up a child in the way he should go: and when he is old, he will not depart from it.",
 " The rich ruleth over the poor, and the borrower is servant to the lender.",
 " He that soweth iniquity shall reap vanity: and the rod of his anger shall fail.",
 " He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor.",
 " Cast out the scorner, and contention shall go out; yea, strife and reproach shall cease.",
-" Hethatlovethpurenessofheart,for the graceofhis lipstheking shall be his friend.",
-" The eyes of the L ORD preserve knowledge, and he overthroweth the words of the transgressor.",
+" He that loveth pureness of heart, for the grace of his lips the king shall be his friend.",
+" The eyes of the LORD preserve knowledge, and he overthroweth the words of the transgressor.",
 " The slothful man saith, There is a lion without, I shall be slain in the streets.",
 " The mouth of strange women is a deep pit: he that is abhorred of the L ORD shall fall therein.",
 " Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him.",
@@ -678,7 +678,7 @@ const ch22 = [
 " Have not I written to thee excellent things in counsels and knowledge,",
 " That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?",
 " Rob not the poor, because he is poor: neither oppress the afflicted in the gate:",
-" For the L ORD will plead their cause, and spoil the soul of those that spoiled them.",
+" For the LORD will plead their cause, and spoil the soul of those that spoiled them.",
 " Make no friendship with an angry man; and with a furious man thou shalt not go:",
 " Lest thou learn his ways, and get a snare to thy soul.",
 " Be not thou one of them that strike hands, or of them that are sureties for debts.",
@@ -744,7 +744,7 @@ const ch24 = [
 " Lest the L ORD see it, and it displease him, and he turn away his wrath from him.",
 " Fret not thyself because of evil men, neither be thou envious at the wicked;",
 " For there shall be no reward to the evil man; the candle of the wicked shall be put out.",
-" My son, fear thou the L ORD and the king: and meddle not with them that are given to change:",
+" My son, fear thou the LORD and the king: and meddle not with them that are given to change:",
 " For their calamity shall rise suddenly; and who knoweth the ruin of them both?",
 " These things also belong to the wise. It is not good to have respect of persons in judgment.",
 " He that saith unto the wicked, Thou art righteous; him shall the people curse, nations shall abhor him:",
@@ -760,7 +760,7 @@ const ch24 = [
 " So shall thy poverty come as one that travelleth; and thy want as an armed man."
 ];
 const ch25 = [
-" THESE are also proverbs ofSolomon, whichthe menofHezekiah king of Judah copied out.",
+" THESE are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.",
 " It is the glory of God to conceal a thing: but the honour of kings is to search out a matter.",
 " The heaven for height, and the earth for depth, and the heart of kings is unsearchable.",
 " Take away the dross from the silver, and there shall come forth a vessel for the finer.",
@@ -781,7 +781,7 @@ const ch25 = [
 " Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint.",
 " As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart.",
 " If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:",
-" For thou shalt heap coals of fire upon his head, and the L ORD shall reward thee.",
+" For thou shalt heap coals of fire upon his head, and the LORD shall reward thee.",
 " The north wind driveth away rain: so doth an angry countenance a backbiting tongue.",
 " It is better to dwell in the corner of the housetop, than with a brawling woman and in a wide house.",
 " As cold waters to a thirsty soul, so is good news from a far country.",
@@ -808,7 +808,7 @@ const ch26 = [
 " The sluggard is wiser in his own conceit than seven men that can render a reason.",
 " He that passeth by, and meddleth with strife belonging not to him, is like one that taketh a dog by the ears.",
 " As a mad man who casteth firebrands, arrows, and death,",
-"Soisthe manthatdeceivethhisneighbour,andsaith, AmnotIin sport?",
+" So is the man that deceiveth his neighbour, and saith, Am not I in sport?",
 " Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.",
 " As coals are to burning coals, and wood to fire; so is a contentious man to kindle strife.",
 " The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.",
@@ -820,12 +820,12 @@ const ch26 = [
 " A lying tongue hateth those that are afflicted by it; and a flattering mouth worketh ruin."
 ];
 const ch27 = [
-" BOAST not thyself of to morrow; for thou knowest not what a day may bring forth.",
+" BOAST not thyself of tomorrow; for thou knowest not what a day may bring forth.",
 " Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips.",
 " A stone is heavy, and the sand weighty; but a fool’s wrath is heavier than them both.",
 " Wrath is cruel, and anger is outrageous; but who is able to stand before envy?",
 " Open rebuke is better than secret love.",
-"Faithfulare the woundsofa friend; butthe kisses ofanenemyare deceitful.",
+" Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.",
 " The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet.",
 " As a bird that wandereth from her nest, so is a man that wandereth from his place.",
 " Ointment and perfume rejoice the heart: so doth the sweetness of a man’s friend by hearty counsel.",
@@ -839,13 +839,13 @@ const ch27 = [
 " Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.",
 " Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured.",
 " As in water face answereth to face, so the heart of man to man.",
-" Hell and destructionare never full; so the eyes of manare never satisfied.",
+" Hell and destruction are never full; so the eyes of man are never satisfied.",
 " As the fining pot for silver, and the furnace for gold; so is a man to his praise.",
 " Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him.",
 " Be thou diligent to know the state of thy flocks, and look well to thy herds.",
 " For riches are not for ever: and doth the crown endure to every generation?",
 " The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered.",
-"The lambs are for thyclothing, and the goatsare thepriceof the field.",
+"The lambs are for thy clothing, and the goats are the price of the field.",
 " And thou shalt have goats’ milk enough for thy food, for the food of thy household, and for the maintenance for thy maidens."
 ];
 const ch28 = [
@@ -853,7 +853,7 @@ const ch28 = [
 " For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged.",
 " A poor man that oppresseth the poor is like a sweeping rain which leaveth no food.",
 " They that forsake the law praise the wicked: but such as keep the law contend with them.",
-" Evil men understand not judgment: but they that seek the L ORD understand all things.",
+" Evil men understand not judgment: but they that seek the LORD understand all things.",
 " Better is the poor that walketh in his uprightness, than he that is perverse in his ways, though he be rich.",
 " Whoso keepeth the law is a wise son: but he that is a companion of riotous men shameth his father.",
 " He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.",
@@ -873,7 +873,7 @@ const ch28 = [
 " He that hasteth to be rich hath an evil eye, and considereth not that poverty shall come upon him.",
 " He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.",
 " Whoso robbeth his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer.",
-"Hethat is ofaproud heart stirrethup strife:but he thatputtethhis trust in the L ORD shall be made fat.",
+" He that is of a proud heart stirreth up strife: but he that putteth his trust in the LORD shall be made fat.",
 " He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered.",
 " He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.",
 " When the wicked rise, men hide themselves: but when they perish, the righteous increase."
@@ -891,7 +891,7 @@ const ch29 = [
 " The bloodthirsty hate the upright: but the just seek his soul.",
 " A fool uttereth all his mind: but a wise man keepeth it in till afterwards.",
 " If a ruler hearken to lies, all his servants are wicked.",
-" The poor and the deceitful man meet together: the L ORD lighteneth both their eyes.",
+" The poor and the deceitful man meet together: the LORD lighteneth both their eyes.",
 " The king that faithfully judgeth the poor, his throne shall be established for ever.",
 " The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.",
 " When the wicked are multiplied, transgression increaseth: but the righteous shall see their fall.",
@@ -912,11 +912,11 @@ const ch30 = [
 " Surely I am more brutish than any man, and have not the understanding of a man.",
 " I neither learned wisdom, nor have the knowledge of the holy.",
 " Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what is his name, and what is his son’s name, if thou canst tell?",
-"5 Every word of God is pure: he is a shield unto them that put their trust in him.",
+" Every word of God is pure: he is a shield unto them that put their trust in him.",
 " Add thou not unto his words, lest he reprove thee, and thou be found a liar.",
 " Two things have I required of thee; deny me them not before I die:",
-" Remove far fromme vanityand lies: give me neither povertynor riches; feed me with food convenient for me:",
-" LestI befull, and deny thee, and say, Who is the LORD? or lest Ibe poor, and steal, and take the name of my God in vain.",
+" Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me:",
+" Lest I be full, and deny thee, and say, Who is the LORD? or lest I be poor, and steal, and take the name of my God in vain.",
 " Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.",
 " There is a generation that curseth their father, and doth not bless their mother.",
 " There is a generation that are pure in their own eyes, and yet is not washed from their filthiness.",
@@ -926,7 +926,7 @@ const ch30 = [
 " The grave; and the barren womb; the earth that is not filled with water; and the fire that saith not, It is enough.",
 " The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.",
 " There be three things which are too wonderful for me, yea, four which I know not:",
-" The wayofan eagle in the air; the wayofa serpent upona rock; the wayof a ship inthe midst ofthe sea; and the wayofa man with a maid.",
+" The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.",
 " Such is the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.",
 " For three things the earth is disquieted, and for four which it cannot bear:",
 " For a servant when he reigneth; and a fool when he is filled with meat;",
@@ -972,7 +972,7 @@ const ch31 = [
 " She looketh well to the ways of her household, and eateth not the bread of idleness.",
 " Her children arise up, and call her blessed; her husband also, and he praiseth her.",
 " Many daughters have done virtuously, but thou excellest them all.",
-" Favour is deceitful, and beauty is vain: but a woman that feareth the L ORD, she shall be praised.",
+" Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised.",
 " Give her of the fruit of her hands; and let her own works praise her in the gates."
 ];
 
@@ -980,7 +980,7 @@ const ch31 = [
 const chapters = [ch1, ch2, ch3, ch4, ch5, ch6, ch7, ch8, ch9, ch10, ch11, ch12, ch13, ch14, ch15, ch16, ch17, ch18, ch19, ch20, ch21, ch22, ch23, ch24, ch25, ch26, ch27, ch28, ch29, ch30, ch31];
 
 // export { chapters };
-// export { chapters as defalt };
+// export { chapters as default };
 
 export default chapters;
 

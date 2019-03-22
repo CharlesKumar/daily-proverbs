@@ -23,3 +23,17 @@ function loadDate (d) {
 let tday = d.getDate();
 loadProverb(chapters[tday-1]);
 loadDate(d);
+
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    const x = 'service-worker.js';
+    navigator.serviceWorker.register(x).then(function(registration) {
+      // Registration was successful
+      console.log('ServiceWorker registration successful with scope: ', registration.scope);
+    }, function(err) {
+      // registration failed :(
+      console.log('ServiceWorker registration failed: ', err);
+    });
+  });
+}
